@@ -54,6 +54,7 @@ A simple Contact Management System implemented in C++ using a Binary Search Tree
 
 ```bash
 ./output
+```
 
 ## Academic Use Notice
 
